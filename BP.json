@@ -3,8 +3,7 @@
 
     {
       "Brand": "LG",
-      "Product": null,
-      "Name": "OLED65B4PUA",
+      "Product Name": "OLED65B4PUA",
       "Graphic Name": "...",
       "CostPrice": 1916.65,
       "MSRP": 2299.98,
@@ -15,8 +14,7 @@
 
     {
       "Brand": "LG",
-      "Product": null,
-      "Name": "65QNED80TUC",
+      "Product Name": "65QNED80TUC",
       "Graphic Name": "...",
       "CostPrice": 833.33,
       "MSRP": 999.99,
@@ -27,8 +25,7 @@
 
     {
       "Brand": "LG",
-      "Product": null,
-      "Name": "65UT8000PUA",
+      "Product Name": "65UT8000PUA",
       "Graphic Name": "...",
       "CostPrice": 833.33,
       "MSRP": 999.99,
@@ -39,8 +36,7 @@
 
     {
       "Brand": "LG",
-      "Product": null,
-      "Name": "OLED65C5PUA",
+      "Product Name": "OLED65C5PUA",
       "Graphic Name": "...",
       "CostPrice": 2749.99,
       "MSRP": 3299.99,
@@ -51,8 +47,7 @@
 
     {
       "Brand": "LG",
-      "Product": null,
-      "Name": "65NANO75UQA",
+      "Product Name": "65NANO75UQA",
       "Graphic Name": "...",
       "CostPrice": 833.33,
       "MSRP": 999.99,
@@ -63,8 +58,7 @@
 
     {
       "Brand": "Sony",
-      "Product": null,
-      "Name": "K65XR80M2",
+      "Product Name": "K65XR80M2",
       "Graphic Name": "...",
       "CostPrice": 4166.66,
       "MSRP": 4999.99,
@@ -75,8 +69,7 @@
 
     {
       "Brand": "Sony",
-      "Product": null,
-      "Name": "XR65A80L",
+      "Product Name": "XR65A80L",
       "Graphic Name": "...",
       "CostPrice": 1999.98,
       "MSRP": 2399.97,
@@ -87,8 +80,7 @@
 
     {
         "Brand": "Sony",
-        "Product": null,
-        "Name": "K65S30B",
+        "Product Name": "K65S30B",
         "Graphic Name": "...",
         "CostPrice": 916.66,
         "MSRP": 1099.99,
@@ -99,8 +91,7 @@
 
     {
       "Brand": "Sony",
-      "Product": null,
-      "Name": "KD65X80K",
+      "Product Name": "KD65X80K",
       "Graphic Name": "...",
       "CostPrice": 833.31,
       "MSRP": 999.97,
@@ -111,8 +102,7 @@
 
     {
       "Brand": "Sony",
-      "Product": null,
-      "Name": "KD65X77L",
+      "Product Name": "KD65X77L",
       "Graphic Name": "...",
       "CostPrice": 705.82,
       "MSRP": 846.98,
@@ -122,8 +112,7 @@
     },
     {
       "Brand": "Samsung",
-      "Product": null,
-      "Name": "QN65S95FAFXZC",
+      "Product Name": "QN65S95FAFXZC",
       "Graphic Name": "...",
       "CostPrice": 3333.25,
       "MSRP": 3999.99,
@@ -134,8 +123,7 @@
 
       {
         "Brand": "Samsung",
-        "Product": null,
-        "Name": "UN65U8000FFXZC",
+        "Product Name": "UN65U8000FFXZC",
         "Graphic Name": "...",
         "CostPrice": 749.99,
         "MSRP": 899.99,
@@ -146,8 +134,7 @@
 
       {
         "Brand": "Samsung",
-        "Product": null,
-        "Name": "QN65LS03FAFXZC",
+        "Product Name": "QN65LS03FAFXZC",
         "Graphic Name": "...",
         "CostPrice": 1916.66,
         "MSRP": 2299.99,
@@ -158,8 +145,7 @@
 
       {
         "Brand": "Samsung",
-        "Product": null,
-        "Name": "UN65DU7100FXZC",
+        "Product Name": "UN65DU7100FXZC",
         "Graphic Name": "...",
         "CostPrice": 666.66,
         "MSRP": 799.99,
@@ -170,8 +156,7 @@
 
       {
         "Brand": "Samsung",
-        "Product": null,
-        "Name": "QN65QN990FFXZC",
+        "Product Name": "QN65QN990FFXZC",
         "Graphic Name": "...",
         "CostPrice": 5416.66,
         "MSRP": 6499.99,
