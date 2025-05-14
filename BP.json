@@ -1,0 +1,188 @@
+{
+  "Products": [
+
+    {
+      "Brand": "LG",
+      "Product": null,
+      "Name": "OLED65B4PUA",
+      "Graphic Name": "...",
+      "CostPrice": 1916.65,
+      "MSRP": 2299.98,
+      "QtyOnHand": 10,
+      "QtyOnBackOrder": 0,
+      "Description": "Experience a new level of home entertainment with the LG C4 4K UHD HDR OLED Evo smart TV. It features the next-gen a9 AI Processor Gen7—exclusively made for LG OLED—for ultra-realistic picture and sound, and even greater brightness. Beautiful picture quality offers a stunning way to watch your favourite movies and TV shows."
+    },
+
+    {
+      "Brand": "LG",
+      "Product": null,
+      "Name": "65QNED80TUC",
+      "Graphic Name": "...",
+      "CostPrice": 833.33,
+      "MSRP": 999.99,
+      "QtyOnHand": 0,
+      "QtyOnBackOrder": 5,
+      "Description": "Enjoy the cinema experience at your home with this LG 65-inch QNED webOS smart TV. Its state-of-art Quantum Dots with NanoCell technology deliver distinctively bright and vibrant images. The α5 AI Processor Gen 7 improves brightness, optimizes sound, and highlights picture quality to significantly enhance your overall viewing experience."
+    },
+
+    {
+      "Brand": "LG",
+      "Product": null,
+      "Name": "65UT8000PUA",
+      "Graphic Name": "...",
+      "CostPrice": 833.33,
+      "MSRP": 999.99,
+      "QtyOnHand": 6,
+      "QtyOnBackOrder": 0,
+      "Description": "Enjoy a cinematic visual experience at home with this LG smart TV. It features 4K Ultra HD resolution, Direct Lit backlight technology, and HDR10 Pro to deliver high-quality and realistic visuals. Plus, α5 AI Processor Gen 7 improves picture and sound quality for a more enjoyable viewing experience. The webOS operating system offers highly user friendly experience."
+    },
+
+    {
+      "Brand": "LG",
+      "Product": null,
+      "Name": "OLED65C5PUA",
+      "Graphic Name": "...",
+      "CostPrice": 2749.99,
+      "MSRP": 3299.99,
+      "QtyOnHand": 2,
+      "QtyOnBackOrder": 0,
+      "Description": "Enjoy cinematic visuals at home with the LG 4K UHD smart TV. This OLED evo C5 series TV runs on the powerful Alpha 9 AI processor Gen8 for smart performance and superior picture quality. Revel in lifelike 4K resolution, vibrant Dolby Vision, and perfect blacks for true immersion. Ultra-fast 120Hz refresh rate provides fluid motion and reduces blur."
+    },
+
+    {
+      "Brand": "LG",
+      "Product": null,
+      "Name": "65NANO75UQA",
+      "Graphic Name": "...",
+      "CostPrice": 833.33,
+      "MSRP": 999.99,
+      "QtyOnHand": 1,
+      "QtyOnBackOrder": 4,
+      "Description": "Enjoy your favourite dramas, movies, and games in breathtaking quality with the LG NanoCell 65, 4K smart TV. Powered by the,a7 Gen,5 AI,Processor 4K,the 65,LED panel with Billion Rich Colours keeps you fascinated with vivid images and vibrant hues. The TruMotion 120 (native 60Hz) refresh rate ensures a smooth and uninterrupted viewing experience."
+    },
+
+    {
+      "Brand": "Sony",
+      "Product": null,
+      "Name": "K65XR80M2",
+      "Graphic Name": "...",
+      "CostPrice": 4166.66,
+      "MSRP": 4999.99,
+      "QtyOnHand": 1,
+      "QtyOnBackOrder": 0,
+      "Description": "Bring cinematic visual entertainment to your home with the Sony BRAVIA 8 II smart Google TV. Its 4K Ultra HD resolution and 120Hz refresh rate deliver incredibly sharp visuals and smooth motion. XR Clear Image and AI technology upscale HD and digital content, enhancing overall video quality. IMAX Enhanced and Acoustic Surface Audio+ provide immersive sound."
+    },
+
+    {
+      "Brand": "Sony",
+      "Product": null,
+      "Name": "XR65A80L",
+      "Graphic Name": "...",
+      "CostPrice": 1999.98,
+      "MSRP": 2399.97,
+      "QtyOnHand": 2,
+      "QtyOnBackOrder": 1,
+      "Description": "Bring exceptional picture and sound to your living room with the Sony 65, 4K UHD, Smart Google, TV. Powered,by the, Cognitive Processor, XR, it delivers the deepest blacks and most natural colours with XR OLED Contrast Pro for enhanced contrast. It uses the latest audio and visual technologies to optimize your screen for movies,TV shows and games."
+    },
+
+    {
+        "Brand": "Sony",
+        "Product": null,
+        "Name": "K65S30B",
+        "Graphic Name": "...",
+        "CostPrice": 916.66,
+        "MSRP": 1099.99,
+        "QtyOnHand": 2,
+        "QtyOnBackOrder": 2,
+        "Description": "Redefine your home entertainment to the next level with this Sony Bravia 3 TV. It features 4K HDR Processor X1 and Triluminos Pro colour technology for lifelike picture quality with enhanced clarity and detail. Support for 4K HDR, Dolby Vision, and Dolby Atmos lets you enjoy incredible cinematic experience. Google TV makes it easy to access all your favourite apps and content."
+     },
+
+    {
+      "Brand": "Sony",
+      "Product": null,
+      "Name": "KD65X80K",
+      "Graphic Name": "...",
+      "CostPrice": 833.31,
+      "MSRP": 999.97,
+      "QtyOnHand": 4,
+      "QtyOnBackOrder": 0,
+      "Description": "Bring big screen entertainment to your home with this Sony 65 4K UHD HDR LED smart Google TV. With impressive sound and picture processing capabilities this TV delivers 4K HDR content and lets you access movies, videos, shows and apps with Google TV in exceptional clarity and detail. Preloaded with YouTube, Netflix and Amazon Prime video, this TV offers instant and endless entertainment."
+    },
+
+    {
+      "Brand": "Sony",
+      "Product": null,
+      "Name": "KD65X77L",
+      "Graphic Name": "...",
+      "CostPrice": 705.82,
+      "MSRP": 846.98,
+      "QtyOnHand": 5,
+      "QtyOnBackOrder": 0,
+      "Description": "Bring your favourite content to life with the Sony 65 4K UHD Smart Google TV. Powered by the 4K Processor X1 it delivers realistic colours sharp details and dynamic contrast. It uses intelligent motion handling to ensure blur-free visuals and offers near-4K content upscaling with a Google TV operating system for effortless operation."
+    },
+    {
+      "Brand": "Samsung",
+      "Product": null,
+      "Name": "QN65S95FAFXZC",
+      "Graphic Name": "...",
+      "CostPrice": 3333.25,
+      "MSRP": 3999.99,
+      "QtyOnHand": 3,
+      "QtyOnBackOrder": 0,
+      "Description": "Enjoy next-level entertainment with the Samsung OLED Tizen smart TV. Powered by the NQ4 AI Gen3 processor, this TV delivers razor-sharp visuals with OLED HDR Pro for deep contrast and rich colours. A 120Hz refresh rate and Motion Xcelerator 165Hz keep action smooth. The glare-free screen offers a clear view from any angle, while 70W speakers provide immersive sound."
+    },
+
+      {
+        "Brand": "Samsung",
+        "Product": null,
+        "Name": "UN65U8000FFXZC",
+        "Graphic Name": "...",
+        "CostPrice": 749.99,
+        "MSRP": 899.99,
+        "QtyOnHand": 7,
+        "QtyOnBackOrder": 0,
+        "Description": "Enjoy stunning, immersive visuals on the Samsung LED Tizen smart TV. It delivers lifelike colours and crisp details with 4K Ultra HD resolution and Direct Lit backlight technology. Motion Xcelerator ensures smooth action, perfect for gaming and fast-paced entertainment. Built-in Amazon Alexa and Google Assistant offer hands-free control."
+      },
+
+      {
+        "Brand": "Samsung",
+        "Product": null,
+        "Name": "QN65LS03FAFXZC",
+        "Graphic Name": "...",
+        "CostPrice": 1916.66,
+        "MSRP": 2299.99,
+        "QtyOnHand": 1,
+        "QtyOnBackOrder": 3,
+        "Description": "Turn your TV into a masterpiece with Samsung The Frame Tizen Smart TV. Featuring modern frame design, it seamlessly blends with your decor. Art mode lets you display artwork or personal photos beautifully, while Artful Picture Quality delivers incredibly vivid, lifelike images. Wi-Fi 5 and Bluetooth 5.3 connectivity allow for seamless wireless streaming."
+      },
+
+      {
+        "Brand": "Samsung",
+        "Product": null,
+        "Name": "UN65DU7100FXZC",
+        "Graphic Name": "...",
+        "CostPrice": 666.66,
+        "MSRP": 799.99,
+        "QtyOnHand": 9,
+        "QtyOnBackOrder": 0,
+        "Description": "Immerse yourself in a cinematic wonderland with the Samsung 4K UHD Smart TV. This LED television uses Purcolour technology to deliver fine-tuned colours for a vibrant and lifelike viewing experience. With 4K upscaling, you can enjoy all your favourite content in 4K resolution. The Gaming Hub offers access to a wide array of games for endless entertainment."
+      },
+
+      {
+        "Brand": "Samsung",
+        "Product": null,
+        "Name": "QN65QN990FFXZC",
+        "Graphic Name": "...",
+        "CostPrice": 5416.66,
+        "MSRP": 6499.99,
+        "QtyOnHand": 1,
+        "QtyOnBackOrder": 0,
+        "Description": "Enjoy stunning, immersive visuals with the Samsung Neo QLED Tizen smart TV. The 8K Ultra HD resolution delivers exceptional picture quality, while Motion Xcelerator 240Hz ensures fluid motion. Its 90W speakers provide rich, powerful sound, and Tizen OS offers an intuitive user experience. With Wi-Fi 6E and Bluetooth 5.3, enjoy seamless wireless connectivity."
+      }
+  ]
+
+
+
+
+
+}
