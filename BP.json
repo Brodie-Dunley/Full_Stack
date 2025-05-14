@@ -1,13 +1,15 @@
-[{
-      "Brand": "LG",
-      "Product Name": "OLED65B4PUA",
-      "Graphic Name": "...",
-      "CostPrice": 1916.65,
-      "MSRP": 2299.98,
-      "QtyOnHand": 10,
-      "QtyOnBackOrder": 0,
-      "Description": "Experience a new level of home entertainment with the LG C4 4K UHD HDR OLED Evo smart TV. It features the next-gen a9 AI Processor Gen7—exclusively made for LG OLED—for ultra-realistic picture and sound, and even greater brightness. Beautiful picture quality offers a stunning way to watch your favourite movies and TV shows."
-    },
+[
+  {
+    "Brand": "LG",
+    "Id": "OLED65B4PUA",
+    "Product Name": "LG 65\" 4k OLED B4 Series",
+    "Graphic Name": "...",
+    "CostPrice": 1916.65,
+    "MSRP": 2299.98,
+    "QtyOnHand": 10,
+    "QtyOnBackOrder": 0,
+    "Description": "Experience a new level of home entertainment with the LG C4 4K UHD HDR OLED Evo smart TV. It features the next-gen a9 AI Processor Gen7—exclusively made for LG OLED—for ultra-realistic picture and sound, and even greater brightness. Beautiful picture quality offers a stunning way to watch your favourite movies and TV shows."
+  },
 
   {
     "Brand": "LG",
@@ -175,5 +177,5 @@
     "QtyOnBackOrder": 0,
     "Description": "Enjoy stunning, immersive visuals with the Samsung Neo QLED Tizen smart TV. The 8K Ultra HD resolution delivers exceptional picture quality, while Motion Xcelerator 240Hz ensures fluid motion. Its 90W speakers provide rich, powerful sound, and Tizen OS offers an intuitive user experience. With Wi-Fi 6E and Bluetooth 5.3, enjoy seamless wireless connectivity."
   }
-  ]
+]
 
