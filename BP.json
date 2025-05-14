@@ -1,7 +1,4 @@
-{
-  "Products": [
-
-    {
+[{
       "Brand": "LG",
       "Product Name": "OLED65B4PUA",
       "Graphic Name": "...",
@@ -166,8 +163,3 @@
       }
   ]
 
-
-
-
-
-}
